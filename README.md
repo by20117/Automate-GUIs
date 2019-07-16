@@ -1,2 +1,2 @@
 # Automate-GUIs
-Use pyautuui
+Use pyautogui
